@@ -11,7 +11,7 @@ It should output:
     `Encypted value of 'plain_text'`
     
 ## Notes
-It doesn't output the word as sentences. (Still haven't figured why yet. :smirk:)
+It doesn't output the cipher text on one line. (Still haven't figured why yet. :smirk:)
 
 But otherwise,
 
